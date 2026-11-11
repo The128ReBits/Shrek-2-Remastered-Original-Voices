@@ -2,13 +2,13 @@
 
 The Steam remaster ships with English voices. This free fan mod by **The128ReBits** restores the original game dubs in **Spanish (Spain), Italian, French and German**. It covers cutscenes, level dialogue and character lines. A few lines exclusive to the remaster still play in English.
 
-**[Download the v1.1 Windows installer on ModDB](https://www.moddb.com/mods/shrek-2-remastered-spanish-italian-french-and-german-voices/downloads/four-original-dubs-v11-windows-installer)** · [Installation video](https://youtu.be/nAQE8KjeVBA) · [All downloads](https://www.moddb.com/mods/shrek-2-remastered-spanish-italian-french-and-german-voices/downloads)
+**[Download the v1.1 Windows installer on ModDB](https://www.moddb.com/mods/shrek-2-remastered-spanish-italian-french-and-german-voices/downloads/four-original-dubs-v11-windows-installer)** · [Installation video in four languages](https://youtu.be/XE44LcksP1c) · [All downloads](https://www.moddb.com/mods/shrek-2-remastered-spanish-italian-french-and-german-voices/downloads)
 
 ## Install
 
 1. Close the game and extract the entire ZIP.
 2. Run `Instalar.cmd` and check the game folder.
-3. Pick a dub, click Install and wait for it to finish.
+3. Set the installer interface language in the top-right dropdown. Then pick the game’s voice language from the cards in the middle, click Install and wait for it to finish.
 
 Choose subtitles in the game’s language options. To remove the mod, open the installer and choose **Restore original English**. Keep your backup. Use the full installer to switch between dubs. The single-language packages on ModDB are manual alternatives with their own instructions.
 
